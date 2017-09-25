@@ -1,0 +1,20 @@
+.header{
+  height: 200px;
+}
+.maincolor{
+  color: #e58339;
+}
+.maincolor-back{
+  background-color: #e58339;
+}
+.subcolor-back{
+  background-color: #fae4d4;
+}
+.title{
+  height: 120px;
+  width: 120px;
+}
+.title-container{
+  display: flex;
+  padding: 40px;
+}
